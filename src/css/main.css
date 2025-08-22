@@ -17,11 +17,11 @@
 }
 
 body {
-  background-color: var(--generic-template-background) !important;
+  background-color: #000 !important;
 }
 
 .template-header {
-  background: var(--generic-template-background);
+  background: #000;
   height: 15vh;
   display: flex;
   align-items: end;
